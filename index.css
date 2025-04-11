@@ -19,7 +19,7 @@ body {
 }
 
 .logo {
-  width: 400px;
+  width: 250px;
 }
 
 @media (max-width: 768px) {
@@ -57,20 +57,20 @@ body {
 }
 
 .title {
-  font-size: 35px;
+  font-size: 20px;
   margin: 0;
   animation: popup 2s;
 }
 
 @media (min-width: 768px) {
   .title {
-    font-size: 50px;
+    font-size: 30px;
   }
 }
 
 @media (min-width: 1200px) {
   .title {
-    font-size: 60px;
+    font-size: 20px;
   }
 }
 
