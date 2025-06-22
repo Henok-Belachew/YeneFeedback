@@ -19,12 +19,12 @@ body {
 }
 
 .logo {
-  width: 250px;
+  width: 500px;
 }
 
 @media (max-width: 768px) {
   .logo {
-    width: 200px;
+    width: 300px;
   }
 }
 
